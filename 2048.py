@@ -1,7 +1,4 @@
 """2048 game
-hussein suleman
-25 april 2014"""
-
 # random number generator
 import random
 # grid utility routines
